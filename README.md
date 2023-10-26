@@ -26,5 +26,5 @@
 
 <img src="pictures/地图.jpg" alt="map" style="zoom:50%;" />
 
-<img src="pictures/我的.png" alt="me" style="zoom:50%;" />
+<img src="pictures/我的.jpg" alt="me" style="zoom:50%;" />
 
